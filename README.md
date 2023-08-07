@@ -1,2 +1,2 @@
-# TechnoHack-Edutech-Internship--
+# TechnoHack-Edutech
 Task 7: Login Page
